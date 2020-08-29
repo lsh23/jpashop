@@ -1,7 +1,7 @@
-package com.springjpaexercise.jpashop.domain.service;
+package com.springjpaexercise.jpashop.service;
 
 import com.springjpaexercise.jpashop.domain.Member;
-import com.springjpaexercise.jpashop.domain.repository.MemberRepository;
+import com.springjpaexercise.jpashop.repository.MemberRepository;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

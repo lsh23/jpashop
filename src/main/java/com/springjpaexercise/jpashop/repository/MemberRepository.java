@@ -1,4 +1,4 @@
-package com.springjpaexercise.jpashop.domain.repository;
+package com.springjpaexercise.jpashop.repository;
 
 import com.springjpaexercise.jpashop.domain.Member;
 import lombok.RequiredArgsConstructor;

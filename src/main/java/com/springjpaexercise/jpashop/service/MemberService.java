@@ -1,9 +1,8 @@
-package com.springjpaexercise.jpashop.domain.service;
+package com.springjpaexercise.jpashop.service;
 
 import com.springjpaexercise.jpashop.domain.Member;
-import com.springjpaexercise.jpashop.domain.repository.MemberRepository;
+import com.springjpaexercise.jpashop.repository.MemberRepository;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
